@@ -1,9 +1,11 @@
 # Ethical Analysis Report: Bias Identification and Mitigation
 
+
 # Results
 ![Portfolio Screenshot](Public/Screenshot%20for%20TensorFlow.PNG)
 ![Portfolio Screenshot](Public/screenshot%20tensorFlow2.PNG)
 
+[📄 View Portfolio PDF](Public/AI%20Tools%20Assignment.pdf)
 ## MNIST Handwritten Digits Model Biases
 
 ### **Data Representation Biases:**
@@ -61,3 +63,4 @@ def mitigate_mnist_biases():
         ]
     }
     return strategies
+
